@@ -2,7 +2,7 @@
 
 My first basic CRUD project in ruby on rails, done along the course of alura
 
-Today the system is running on heroku at: https://crudprojectruby.herokuapp.com/
+Today the system is running on heroku at: https://crudprojectruby.herokuapp.com
 
 I am not responsible for the products or departments created in this environment because anyone can access and create!
 
