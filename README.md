@@ -1,4 +1,4 @@
-== README
+<h1>README</h1>
 
 My first basic CRUD project in ruby on rails, done along the course of alura
 
