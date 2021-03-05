@@ -1,6 +1,6 @@
 == README
 
-My first ruby on rails project, done along the course of alura.
+My first basic CRUD project in ruby on rails, done along the course of alura
 
 Today the system is running on heroku at: https://crudprojectruby.herokuapp.com/
 
