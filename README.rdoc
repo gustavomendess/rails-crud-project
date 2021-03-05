@@ -12,6 +12,7 @@ To install locally:
 https://www.ruby-lang.org/en/downloads/
 
 Installation:
+
 1- Clone the project repository:
 git clone https://github.com/gustavomendess/rails-crud-project.git
 
