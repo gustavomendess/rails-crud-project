@@ -9,7 +9,7 @@ I am not responsible for the products or departments created in this environment
 To install locally:
 
 1- Download ruby 2.6.6:
-```https://www.ruby-lang.org/en/downloads/```
+`https://www.ruby-lang.org/en/downloads/`
 
 Installation:
 
